@@ -1,7 +1,7 @@
 <h1>Pedra, Papel, Tesoura, Lagarto ou Spock?</h1>
 
 <h2> Sobre </h2>
-<p> Projeto realizado através da 'Imersão Dev' da Alura. Trata-se de uma versão do jogo 'Pedra, Pape, Tesoura' inspirada na série 'The Big Bang Theory', onde o usuário joga contra o computador. O projeto foi realizado através do site CodePen, utilizando como linguagem de programação o Java-Script.</p>
+<p> Projeto realizado através da 'Imersão Dev' da Alura. Trata-se de uma versão do jogo 'Pedra, Papel, Tesoura' inspirada na série 'The Big Bang Theory', onde o usuário joga contra o computador. O projeto foi realizado através do site CodePen, utilizando como linguagem de programação o Java-Script.</p>
 
 ## Tecnologias
 <div>
